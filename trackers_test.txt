@@ -152,4 +152,4 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://9.rarbg.to:2960
 http://opentracker.i2p.rocks:6969/announce
 http://t.acg.rip:6699/announce
-ttp://tk.nvacg.org:3333/announce
+http://tk.nvacg.org:3333/announce
